@@ -33,7 +33,7 @@
 
             <img class="q-mb-md" src="statics/mask-wallet.svg" height="42" />
 
-            <p class="q-my-sm">Version: Mask Wallet v1.0.2-0.3.1.2</p>
+            <p class="q-my-sm">Version: Apollo v1.0.2-0.3.1.2</p>
             <p class="q-my-sm">Copyright (c) 2018, Mask Project</p>
             <p class="q-my-sm">All rights reserved.</p>
 
