@@ -41,13 +41,13 @@ export class Backend {
 
             app: {
                 data_dir: this.config_dir,
-                ws_bind_port: 12213,
+                ws_bind_port: 44083,
                 testnet: false
             },
 
             daemon: {
                 type: "local_remote",
-                remote_host: "geo.maskblocks.com",
+                remote_host: "",
                 remote_port: 44081,
                 p2p_bind_ip: "0.0.0.0",
                 p2p_bind_port: 44080,
@@ -63,7 +63,7 @@ export class Backend {
             },
 
             wallet: {
-                rpc_bind_port: 12214,
+                rpc_bind_port: 44084,
                 log_level: 0
             }
         }
