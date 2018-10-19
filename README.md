@@ -1,6 +1,4 @@
-![Mask Wallet](https://mask-currency.com/img/mask-wallet-screenshots/mask-wallet.png)
-
-Next Generation GUI Wallet for Mask
+NEW GUI Wallet for Mask
 
 ---
 
